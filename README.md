@@ -10,7 +10,7 @@
 
 <b> Step 2: Configure and run the proxy. </b><br>
         a. Download the entire https://github.com/nervousnet/nervousnet-proxy/tree/master/proxy/proxy/buildapp     folder. <br>
-        b. Modify the config.xml file, setting the attributed $$sqlUsername$$, $$sqlPassword$$, $$sqlDatabase$$ to **user**, **password** and **db**. <br>
+        b. Modify the config.xml file, setting the attributed **sqlUsername**, **sqlPassword**, **sqlDatabase** to **user**, **password** and **db**. <br>
         c. Start the proxy from the console by running *bash proxy-start.sh*
         
  <b>Step 3: Stopping the server </b><br>
