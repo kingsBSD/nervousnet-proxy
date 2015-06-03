@@ -1,4 +1,4 @@
 #!/bin/bash
 
-pid=`ps aux | grep router.jar | awk '{print $2}'`
+pid=`ps aux | grep proxy.jar | awk '{print $2}'`
 kill -9 $pid
