@@ -9,7 +9,7 @@
         d. Create a database **db** in which you wish your data to be stored. <br>
 
 <b> Step 2: Configure and run the proxy. </b><br>
-        a. Download the entire https://github.com/nervousnet/nervousnet-proxy/tree/master/proxy/proxy/buildapp     folder. <br>
+        a. Download the entire https://github.com/nervousnet/nervousnet-proxy/tree/master/proxy/proxy/build     folder. <br>
         b. Modify the config.xml file, setting the attributed **sqlUsername**, **sqlPassword**, **sqlDatabase** to **user**, **password** and **db**. <br>
         c. Start the proxy from the console by running *bash proxy-start.sh*
         
